@@ -1,4 +1,6 @@
-All nonono files
+#All nonono files
 
 *.exe
+!main.exe
+
 *.o
